@@ -148,7 +148,7 @@ VIDEO_INFERENCE_CONFIG = {
         'max_mid_term_frames': 10,
         'mem_every': 10,
         'min_mid_term_frames': 5,
-        'model': './saves/XMem.pth',
+        'model': '/home/agostinh/Desktop/BundleSDF/XMem2/saves/XMem.pth',
         'no_amp': False,
         'num_objects': 1,
         'num_prototypes': 128,
